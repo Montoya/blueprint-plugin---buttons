@@ -1,5 +1,11 @@
 Buttons
 
+NOTE: As of October 6, I am now hosting this plugin. I still need 
+to do some diligence, however, to ensure that it is "ready" for 
+the latest version of Blueprint. I can already say that the folder 
+structure is not correct. 
+- Christian Montoya
+
 * Gives you great looking CSS buttons, for both <a> and <button>.
 * Demo: particletree.com/features/rediscovering-the-button-element
 
